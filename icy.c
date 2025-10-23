@@ -10,3 +10,4 @@ int main()
         printf("Un cercle de radian = %i, a pour aire = %f\n", radian, aire);
         return 0;
 }
+
